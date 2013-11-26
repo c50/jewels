@@ -4,6 +4,7 @@ app/code
 app/etc
 app/locale
 lib
+js
 cron.php
 cron.sh
 downloader
