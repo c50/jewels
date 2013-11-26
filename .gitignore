@@ -9,6 +9,7 @@ app/design/frontend/default/default
 app/design/frontend/default/iphone
 app/design/frontend/default/modern
 app/design/install
+skin/adminhtml
 lib
 js
 cron.php
