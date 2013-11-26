@@ -31,3 +31,7 @@ pkginfo/Mage_All_Latest.txt
 *.sublime-project
 
 *.sublime-workspace
+
+app/Mage.php
+
+app/design/adminhtml/
