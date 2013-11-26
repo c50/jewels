@@ -11,6 +11,13 @@ app/design/frontend/default/modern
 app/design/install
 skin/adminhtml
 skin/frontend/base
+skin/default/blank
+skin/default/blue
+skin/default/default
+skin/default/french
+skin/default/german
+skin/default/iphone
+skin/default/modern
 lib
 js
 cron.php
