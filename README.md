@@ -1,0 +1,4 @@
+jewels
+======
+
+Magento responsive theme
