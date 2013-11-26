@@ -3,6 +3,7 @@ app/etc/local.xml
 app/code
 app/etc
 app/locale
+lib
 cron.php
 cron.sh
 downloader
