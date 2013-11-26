@@ -3,6 +3,7 @@ app/etc/local.xml
 app/code
 app/etc
 app/locale
+app/design/frontend/base
 lib
 js
 cron.php
