@@ -8,6 +8,7 @@ app/design/frontend/default/blank
 app/design/frontend/default/default
 app/design/frontend/default/iphone
 app/design/frontend/default/modern
+app/design/install
 lib
 js
 cron.php
@@ -42,3 +43,5 @@ pkginfo/Mage_All_Latest.txt
 app/Mage.php
 
 app/design/adminhtml/
+
+php53.cgi
