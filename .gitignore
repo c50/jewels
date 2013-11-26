@@ -18,6 +18,7 @@ skin/frontend/default/french
 skin/frontend/default/german
 skin/frontend/default/iphone
 skin/frontend/default/modern
+skin/install
 lib
 js
 cron.php
