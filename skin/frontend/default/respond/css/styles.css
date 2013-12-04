@@ -423,7 +423,8 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 }
 
-body          { font:75%/1.5 /*12/18*/ Tahoma, Helvetica, Arial, sans-serif; color:#000000;  }
+
+body          { font:75%/1.5 /*12/18*/ "futura-pt", Tahoma, Helvetica, Arial, sans-serif; color:#000000;  }
 
 img           { border:0; vertical-align:top; }
 
