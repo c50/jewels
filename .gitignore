@@ -55,3 +55,5 @@ app/Mage.php
 app/design/adminhtml/
 
 php53.cgi
+
+sftp-config.json
