@@ -1075,8 +1075,18 @@ ul.products-grid { margin: 18px -20px; }
 .products-grid .product-image img:hover { opacity: 0.9; }
 .products-grid.first .product-image { border-top:0; }
 .products-grid li.last .product-image { border-right:0; }
-.products-grid .product-name { font-size:12px; margin: 0; }
-.products-grid .product-name a { color:#444; text-transform: uppercase; letter-spacing: 0.1em; }
+.products-grid .product-name {
+	font-size: 12px;
+	margin: 0;
+}
+.products-grid .product-name a {
+	color: #444;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	display: block;
+	height: 4.2em !important;
+	overflow: hidden;
+}
 .products-grid .product-name a:hover { text-decoration:none; }
 .products-grid .price-box { margin:9px 0; }
 .products-grid .availability { line-height:21px; }
@@ -1426,7 +1436,12 @@ line-height: 36px; margin: 0; padding: 0 20px; text-decoration: none; width: aut
 
 
 /* Content Styles ================================================================= */
-.product-name {    font-family: colaborateregular, helvetica, arial, sans-serif; font-size: 12px; font-weight: normal; line-height: 1.5;}
+.product-name {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.5;
+}
 /*.product-name a { color:#444; }*/
 
 /* Product Tags */
